@@ -7,3 +7,4 @@ env.bak/
 venv.bak/
 n
 .gitignore
+.git/info/exclude
