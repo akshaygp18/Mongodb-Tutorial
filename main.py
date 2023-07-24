@@ -158,4 +158,5 @@ def add_address_embed(person_id,address):
     person_collection.update_one({"_id":_id},{"$addToSet":{"addresses":address}})
 
 
-add_address_embed("64bb7fcd93923a566ef6a26e",address)
+#add_address_embed("64bb7fcd93923a566ef6a26e",address)
+
